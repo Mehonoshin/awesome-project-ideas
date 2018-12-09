@@ -4,3 +4,4 @@
 * Hosted opensource passwords manager(replacement for https://github.com/passbolt)
 * Parse and display ruby jobs in single place [list os possible sources](https://github.com/Mehonoshin/pmj/blob/master/doc/sources.md)
 * Opensource onlite retro board
+* Opensource Scrapping platform
