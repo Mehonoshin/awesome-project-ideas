@@ -7,3 +7,4 @@
 * Opensource Scrapping platform
 * Helpdesk rails engine
 * Web app for cucumber scenarios management
+* Personal Savings management tool
